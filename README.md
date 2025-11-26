@@ -1,6 +1,7 @@
 # Kaggle_Titanic
 
-In this repository I will showcase my skills in Data Science / Machine Learning on the Kaggle Titanic dataset "https://www.kaggle.com/competitions/titanic".
+In this repository I will showcase my Python skills in Data Science / Machine Learning on the Kaggle Titanic dataset "https://www.kaggle.com/competitions/titanic".
+
 I will apply the following ML methods:
 
 - ....
